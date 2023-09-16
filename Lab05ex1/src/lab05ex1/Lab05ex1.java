@@ -121,6 +121,7 @@ public class Lab05ex1 {
             System.out.println("Departamento do gerente:" + deptG1);
             System.out.println();
         }
+        teclado.close();
         
     }
     
